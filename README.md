@@ -1,2 +1,2 @@
 # yasai
-Yasai Use
+Yasai
